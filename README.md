@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! You're looking at my profile! Hi!
 
 <!--
 **charleschin42/charleschin42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
